@@ -18,11 +18,11 @@ So, I used the STD Drugs Data set which is available online.
 You can Download the data set from the link <a href="https://he-s3.s3.amazonaws.com/media/hackathon/hackerearth-machine-learning-challenge-std-drug-effectiveness/effectiveness-of-std-drugs-cc3e4cc9/916e0d48-7-dataset.zip?Signature=lK7G2c0xMrLZsxNt0J%2BMOAhttfg%3D&Expires=1588045867&AWSAccessKeyId=AKIA6I2ISGOYH7WWS3G5">Click Here</a>
 
 ## Run
-In a terminal or command window, navigate to the top-level project directory Write_BlogPost/ (that contains this README) and run one of the following commands:<\br>
+In a terminal or command window, navigate to the top-level project directory Write_BlogPost/ (that contains this README) and run one of the following commands:</br>
 
 ipython notebook Effectiveness Of Drugs.ipynb
 
 or
 
-jupyter Effectiveness Of Drugs.ipynb<\br>
+jupyter Effectiveness Of Drugs.ipynb</br>
 This will open the iPython Notebook software and project file in your browser.
