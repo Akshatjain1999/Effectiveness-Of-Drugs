@@ -1,4 +1,3 @@
-# Data Scientist Nanodegree
 # Introduction to data science
 # Project:Effectiveness Of STD Drugs
 ## Installations
